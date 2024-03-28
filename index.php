@@ -3,25 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Whatsapp 1:1</title>
+    <title>ChatApp</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
+<?php include_once "header.php"; ?>
 <body>
 <div class="wrapper">
     <section class="form signup">
+        <header>ChatApp</header>
         <form action="#" method="post" enctype="multipart/form-data" autocomplete = "off">
-            <div class="error-text"></div>
+            <div class="error-text"> </div>
             <div class="name-details">
-                <div class="field input"> </div>
-                <label>Voornaam</label>
-                <input type="text" name="fname"
-                placeholder="Voornaam" required>
-
+            <div class="field input"> </div>
             </div>
             <div class="name-details">
                 <div class="field input"> </div>
-                <label>Achternaam</label>
-                <input type="text" name="fname"
-                placeholder="Achternaam" required>
             </div>
 
             <div class= "field input"> 
