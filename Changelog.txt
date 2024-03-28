@@ -1,0 +1,6 @@
+Update 1.0:
+- index.php volledig uitgewerkt met email adres en wachtwoord.
+- Nog niet volledig functioneel zal met de komende dagen gefixed worden en geupload worden in de change log.
+- Een profiel foto functie toegevoegd zodat andere mensen elkaar beter kunnen herkennen.
+
+
